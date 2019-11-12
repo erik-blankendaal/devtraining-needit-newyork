@@ -6,7 +6,7 @@
         <sys_created_on>2019-07-11 22:36:03</sys_created_on>
         <sys_id>0ef0c4f15b810010e4f77bfcda81c7f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_package display_value="NeedIt (git)" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-07-11 22:36:03</sys_updated_on>
     </sys_package_dependency_m2m>
